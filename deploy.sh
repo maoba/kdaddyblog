@@ -4,7 +4,7 @@
 set -e
 
 
-push_addr=git@139.196.112.110:/home/git/blog.git # git提交地址，也可以手动设置，比如：push_addr=git@github.com:xugaoyi/vuepress-theme-vdoing.git
+push_addr=git@106.14.4.26:/home/git/blog.git # git提交地址，也可以手动设置，比如：push_addr=git@github.com:xugaoyi/vuepress-theme-vdoing.git
 commit_info=article-commit
 dist_path=docs/.vuepress/dist # 打包生成的文件夹路径
 push_branch=master # 推送的分支
