@@ -44,6 +44,10 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
                 text: '《GO语言》',
                 link: '/note/go/',
               },
+              {
+                text: '《Spring源码解读》',
+                link: '/note/spring/',
+              },
             ],
           },
         ],
