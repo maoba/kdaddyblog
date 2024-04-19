@@ -1,7 +1,7 @@
 ---
 home: true
 # heroImage: /img/web.png
-heroText: 老猫的技术博客
+heroText: 程序员老猫
 tagline: 成长源于积累，积跬步而致千里。
 # actionText: 立刻进入 →
 # actionLink: /web/
