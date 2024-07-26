@@ -16,7 +16,7 @@ features: # 可选的
   - title: 架构
     details: 包含一些中间件技术，常用的后端技术解决方案，微服务解决方案等
     link: /architecture/
-    imgUrl: /img/ui.png
+    imgUrl: https://cdn.ktdaddy.com/img/ui.png
   - title: 杂谈
     details: 聊聊人生，聊聊赚钱，聊聊爱好，聊聊生活，聊聊最近...
     link: /more/
