@@ -12,7 +12,7 @@ features: # 可选的
   - title: 后端基础
     details: 包含后端常用语言基础、设计模式、JVM等等
     link: /note/ # 可选
-    imgUrl: /img/web.png # 可选
+    imgUrl: https://cdn.ktdaddy.com/img/web.png # 可选
   - title: 架构
     details: 包含一些中间件技术，常用的后端技术解决方案，微服务解决方案等
     link: /architecture/
@@ -20,7 +20,7 @@ features: # 可选的
   - title: 杂谈
     details: 聊聊人生，聊聊赚钱，聊聊爱好，聊聊生活，聊聊最近...
     link: /more/
-    imgUrl: /img/other.png
+    imgUrl: https://cdn.ktdaddy.com/img/other.png
 
 # 文章列表显示方式: detailed 默认，显示详细版文章列表（包括作者、分类、标签、摘要、分页等）| simple => 显示简约版文章列表（仅标题和日期）| none 不显示文章列表
 # postList: detailed
